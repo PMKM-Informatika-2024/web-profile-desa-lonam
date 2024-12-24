@@ -137,7 +137,7 @@
                     </p>
                     <div>
                         <a href="{{ $kontak->url_fb }}" class="text-white me-3"><i class="fab fa-facebook-f"></i></a>
-                        <a href="{{ $kontak->url_ig " class="text-white me-3"><i class="fab fa-instagram"></i></a>
+                        <a href="{{ $kontak->url_ig }}" class="text-white me-3"><i class="fab fa-instagram"></i></a>
                         <a href="{{ $kontak->url_yt }}" class="text-white"><i class="fab fa-youtube"></i></a>
                     </div>
                 </div>
